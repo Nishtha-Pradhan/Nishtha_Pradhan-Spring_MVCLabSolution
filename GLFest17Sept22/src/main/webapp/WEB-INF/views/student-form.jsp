@@ -40,7 +40,7 @@ hr {
 		<h2>Welcome to GL Fest 2022!</h2>
 		<hr>
 		<p>
-			Find the existing participants of GL Fest <a href="students/list"
+			Find the existing participants of GL Fest <a href="list"
 				class="btn btn-outline-warning btn-lg">Here</a>
 		</p>
 		<hr>
